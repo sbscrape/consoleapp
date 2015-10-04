@@ -20,7 +20,7 @@ make init
 To run the app:
 
 ````
-php src/Scraper/console.php saisnbury:scraper <url>
+php src/Scraper/console.php sainsbury:scraper <url>
 ````
 
 In case of this example this would be:
