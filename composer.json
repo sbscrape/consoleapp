@@ -1,0 +1,15 @@
+{
+  "name": "sainsbury/scraper",
+  "type": "project",
+  "description": "Scraper test",
+  "autoload": {
+    "psr-4": { "": "src/" }
+  },
+  "require": {
+      "php": ">=5.5",
+	  "symfony/console": "~2.7",
+      "fabpot/goutte": "~3.1",
+      "jms/serializer": "~1.0",
+      "phpspec/phpspec": "~2.3"
+    }
+}
